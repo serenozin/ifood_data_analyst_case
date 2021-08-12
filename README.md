@@ -1,2 +1,3 @@
-# ifood_data_analyst_case
+# Data Reporting Case 
 A data-driven storytelling case with self data 
+
