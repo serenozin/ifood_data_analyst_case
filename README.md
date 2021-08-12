@@ -1,3 +1,6 @@
 # Data Reporting Case 
-A data-driven storytelling case with self data 
+
+Interative dashboard avaliable [here](https://public.tableau.com/app/profile/patryck.harley/viz/iFoodCase-SelfDataStorytelling/Painel1)
 <img src='dashboard_image.png'>
+
+
